@@ -1,0 +1,55 @@
+.sec2{
+    background-image: url(green.jpg);
+    text-align: center;
+   
+    /* background-size: cover; */
+    color: rgb(0, 0, 0);
+}
+.sec3{
+    background-color: paleturquoise;
+    padding: 50px 0;
+}
+.sec4{
+    background-color: antiquewhite;
+    padding: 50px 0;
+}
+.sec5{
+    background-color:beige;
+    padding: 50px 0;
+}
+.sec6{
+    background-color: azure;
+    padding: 50px 0;
+}
+.sec7{
+    background-color: whitesmoke;
+    padding: 50px 0;
+}
+.sec8{
+    background-color:lightseagreen;
+    padding: 50px 0;
+}
+.sec10{
+    background-color: rgb(24, 23, 23);
+    padding: 20px 0;
+}
+.sec11{
+    background-color: black;
+     padding: 20px 0;
+}
+.para{
+    margin: 15px;
+}
+.be{
+    text-align: center;
+    color: white;
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.524);
+     padding: 200px 0;
+}
+@media(max-width:992px){
+    .inbox{
+        text-align: center;
+    }
+}
