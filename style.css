@@ -53,3 +53,13 @@
         text-align: center;
     }
 }
+@media(max-width:768px){
+    .sec2{
+        background-position: center;
+    }
+    .overlay{
+        padding: 50px 0;
+    }
+}
+
+
